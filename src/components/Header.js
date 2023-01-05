@@ -1,9 +1,12 @@
 import React from 'react'
 
-export default function Header() {
+export const Header = () => {
   return (
-    <div>
+    <h2>
+      Expense Tracker
       
-    </div>
+    </h2>
   )
 }
+
+export default Header
