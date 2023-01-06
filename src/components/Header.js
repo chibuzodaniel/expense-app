@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-export const Header = () => {
+const Header = () => {
   return (
     <h2>
       Expense Tracker
